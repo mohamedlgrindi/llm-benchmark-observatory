@@ -1,0 +1,17 @@
+# Virtual environment — never push this
+venv/
+
+# Downloaded HuggingFace data — too large for GitHub
+hf_data/
+
+# Python cache files — auto-generated, not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables file — contains secrets
+.env
+
+# Operating system files
+.DS_Store
+Thumbbs.db
