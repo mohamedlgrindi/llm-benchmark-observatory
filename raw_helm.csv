@@ -1,0 +1,62 @@
+model_name,organization,architecture,model_type,param_count_b,training_cutoff,flagged_by_hf,benchmark_name,task_type,language,score,fetch_date,source
+gpt-4.1,openai,unknown,unknown,Undisclosed,Jun 2024,False,mmlu,unknown,english,0.865,2026-03-21,GitHub-LLM-Comparison
+gpt-4.1,openai,unknown,unknown,Undisclosed,Jun 2024,False,humaneval,unknown,english,0.902,2026-03-21,GitHub-LLM-Comparison
+gpt-4.1,openai,unknown,unknown,Undisclosed,Jun 2024,False,math,unknown,english,0.804,2026-03-21,GitHub-LLM-Comparison
+gpt-4.1,openai,unknown,unknown,Undisclosed,Jun 2024,False,mt_bench,unknown,english,0.092,2026-03-21,GitHub-LLM-Comparison
+gpt-4.1 mini,openai,unknown,unknown,Undisclosed,Jun 2024,False,mmlu,unknown,english,0.835,2026-03-21,GitHub-LLM-Comparison
+gpt-4.1 mini,openai,unknown,unknown,Undisclosed,Jun 2024,False,humaneval,unknown,english,0.875,2026-03-21,GitHub-LLM-Comparison
+gpt-4.1 mini,openai,unknown,unknown,Undisclosed,Jun 2024,False,math,unknown,english,0.72,2026-03-21,GitHub-LLM-Comparison
+gpt-4.1 mini,openai,unknown,unknown,Undisclosed,Jun 2024,False,mt_bench,unknown,english,0.088,2026-03-21,GitHub-LLM-Comparison
+o4-mini,openai,unknown,unknown,Undisclosed,Jun 2024,False,mmlu,unknown,english,0.832,2026-03-21,GitHub-LLM-Comparison
+o4-mini,openai,unknown,unknown,Undisclosed,Jun 2024,False,humaneval,unknown,english,0.934,2026-03-21,GitHub-LLM-Comparison
+o4-mini,openai,unknown,unknown,Undisclosed,Jun 2024,False,math,unknown,english,0.967,2026-03-21,GitHub-LLM-Comparison
+o3,openai,unknown,unknown,Undisclosed,Jun 2024,False,mmlu,unknown,english,0.875,2026-03-21,GitHub-LLM-Comparison
+o3,openai,unknown,unknown,Undisclosed,Jun 2024,False,humaneval,unknown,english,0.952,2026-03-21,GitHub-LLM-Comparison
+o3,openai,unknown,unknown,Undisclosed,Jun 2024,False,math,unknown,english,0.967,2026-03-21,GitHub-LLM-Comparison
+claude sonnet 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,mmlu,unknown,english,0.89,2026-03-21,GitHub-LLM-Comparison
+claude sonnet 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,humaneval,unknown,english,0.93,2026-03-21,GitHub-LLM-Comparison
+claude sonnet 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,math,unknown,english,0.785,2026-03-21,GitHub-LLM-Comparison
+claude sonnet 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,mt_bench,unknown,english,0.092,2026-03-21,GitHub-LLM-Comparison
+claude haiku 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,mmlu,unknown,english,0.8,2026-03-21,GitHub-LLM-Comparison
+claude haiku 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,humaneval,unknown,english,0.895,2026-03-21,GitHub-LLM-Comparison
+claude haiku 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,math,unknown,english,0.72,2026-03-21,GitHub-LLM-Comparison
+claude haiku 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,mt_bench,unknown,english,0.086,2026-03-21,GitHub-LLM-Comparison
+claude opus 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,mmlu,unknown,english,0.895,2026-03-21,GitHub-LLM-Comparison
+claude opus 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,humaneval,unknown,english,0.91,2026-03-21,GitHub-LLM-Comparison
+claude opus 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,math,unknown,english,0.76,2026-03-21,GitHub-LLM-Comparison
+claude opus 4.5,anthropic,unknown,unknown,Undisclosed,Apr 2025,False,mt_bench,unknown,english,0.093,2026-03-21,GitHub-LLM-Comparison
+gemini 2.5 pro,google,unknown,unknown,Undisclosed,Jan 2025,False,mmlu,unknown,english,0.872,2026-03-21,GitHub-LLM-Comparison
+gemini 2.5 pro,google,unknown,unknown,Undisclosed,Jan 2025,False,humaneval,unknown,english,0.84,2026-03-21,GitHub-LLM-Comparison
+gemini 2.5 pro,google,unknown,unknown,Undisclosed,Jan 2025,False,math,unknown,english,0.78,2026-03-21,GitHub-LLM-Comparison
+gemini 2.5 pro,google,unknown,unknown,Undisclosed,Jan 2025,False,mt_bench,unknown,english,0.09,2026-03-21,GitHub-LLM-Comparison
+gemini 2.5 flash,google,unknown,unknown,Undisclosed,Jan 2025,False,mmlu,unknown,english,0.836,2026-03-21,GitHub-LLM-Comparison
+gemini 2.5 flash,google,unknown,unknown,Undisclosed,Jan 2025,False,humaneval,unknown,english,0.82,2026-03-21,GitHub-LLM-Comparison
+gemini 2.5 flash,google,unknown,unknown,Undisclosed,Jan 2025,False,math,unknown,english,0.731,2026-03-21,GitHub-LLM-Comparison
+gemini 2.5 flash,google,unknown,unknown,Undisclosed,Jan 2025,False,mt_bench,unknown,english,0.086,2026-03-21,GitHub-LLM-Comparison
+llama 4 scout,meta,unknown,unknown,17B active (16 experts),Dec 2024,False,mmlu,unknown,english,0.796,2026-03-21,GitHub-LLM-Comparison
+llama 4 scout,meta,unknown,unknown,17B active (16 experts),Dec 2024,False,humaneval,unknown,english,0.82,2026-03-21,GitHub-LLM-Comparison
+llama 4 scout,meta,unknown,unknown,17B active (16 experts),Dec 2024,False,math,unknown,english,0.705,2026-03-21,GitHub-LLM-Comparison
+llama 4 scout,meta,unknown,unknown,17B active (16 experts),Dec 2024,False,mt_bench,unknown,english,0.083,2026-03-21,GitHub-LLM-Comparison
+llama 4 maverick,meta,unknown,unknown,17B active (128 experts),Dec 2024,False,mmlu,unknown,english,0.855,2026-03-21,GitHub-LLM-Comparison
+llama 4 maverick,meta,unknown,unknown,17B active (128 experts),Dec 2024,False,humaneval,unknown,english,0.88,2026-03-21,GitHub-LLM-Comparison
+llama 4 maverick,meta,unknown,unknown,17B active (128 experts),Dec 2024,False,math,unknown,english,0.785,2026-03-21,GitHub-LLM-Comparison
+llama 4 maverick,meta,unknown,unknown,17B active (128 experts),Dec 2024,False,mt_bench,unknown,english,0.087,2026-03-21,GitHub-LLM-Comparison
+deepseek v3,deepseek,unknown,unknown,671 (37B active),Dec 2024,False,mmlu,unknown,english,0.885,2026-03-21,GitHub-LLM-Comparison
+deepseek v3,deepseek,unknown,unknown,671 (37B active),Dec 2024,False,humaneval,unknown,english,0.826,2026-03-21,GitHub-LLM-Comparison
+deepseek v3,deepseek,unknown,unknown,671 (37B active),Dec 2024,False,math,unknown,english,0.902,2026-03-21,GitHub-LLM-Comparison
+deepseek v3,deepseek,unknown,unknown,671 (37B active),Dec 2024,False,mt_bench,unknown,english,0.088,2026-03-21,GitHub-LLM-Comparison
+deepseek r1,deepseek,unknown,unknown,671 (37B active),Dec 2024,False,mmlu,unknown,english,0.908,2026-03-21,GitHub-LLM-Comparison
+deepseek r1,deepseek,unknown,unknown,671 (37B active),Dec 2024,False,humaneval,unknown,english,0.853,2026-03-21,GitHub-LLM-Comparison
+deepseek r1,deepseek,unknown,unknown,671 (37B active),Dec 2024,False,math,unknown,english,0.973,2026-03-21,GitHub-LLM-Comparison
+mistral large 3,mistral ai,unknown,unknown,675 (41B active),Jun 2025,False,mmlu,unknown,english,0.855,2026-03-21,GitHub-LLM-Comparison
+mistral large 3,mistral ai,unknown,unknown,675 (41B active),Jun 2025,False,humaneval,unknown,english,0.902,2026-03-21,GitHub-LLM-Comparison
+mistral large 3,mistral ai,unknown,unknown,675 (41B active),Jun 2025,False,math,unknown,english,0.835,2026-03-21,GitHub-LLM-Comparison
+mistral large 3,mistral ai,unknown,unknown,675 (41B active),Jun 2025,False,mt_bench,unknown,english,0.085,2026-03-21,GitHub-LLM-Comparison
+mistral small 3.2,mistral ai,unknown,unknown,24,Mar 2025,False,mmlu,unknown,english,0.722,2026-03-21,GitHub-LLM-Comparison
+mistral small 3.2,mistral ai,unknown,unknown,24,Mar 2025,False,humaneval,unknown,english,0.75,2026-03-21,GitHub-LLM-Comparison
+mistral small 3.2,mistral ai,unknown,unknown,24,Mar 2025,False,math,unknown,english,0.6,2026-03-21,GitHub-LLM-Comparison
+mistral small 3.2,mistral ai,unknown,unknown,24,Mar 2025,False,mt_bench,unknown,english,0.081,2026-03-21,GitHub-LLM-Comparison
+command a,cohere,unknown,unknown,Undisclosed,Mar 2024,False,mmlu,unknown,english,0.712,2026-03-21,GitHub-LLM-Comparison
+command a,cohere,unknown,unknown,Undisclosed,Mar 2024,False,humaneval,unknown,english,0.68,2026-03-21,GitHub-LLM-Comparison
+command a,cohere,unknown,unknown,Undisclosed,Mar 2024,False,math,unknown,english,0.53,2026-03-21,GitHub-LLM-Comparison
+command a,cohere,unknown,unknown,Undisclosed,Mar 2024,False,mt_bench,unknown,english,0.082,2026-03-21,GitHub-LLM-Comparison
